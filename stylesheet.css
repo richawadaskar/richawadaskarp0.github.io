@@ -1,8 +1,14 @@
 h1 {
     color: crimson;
-    align-content: center;
+    justify-content: center;
 }
 
 img {
     image-orientation: from-image;
+    width: 500px;
+    justify-content: center;
+}
+
+a {
+    color: black;
 }
