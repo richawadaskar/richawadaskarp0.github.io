@@ -1,3 +1,8 @@
 h1 {
-    color: crimson
+    color: crimson;
+    align-content: center;
+}
+
+img {
+    image-orientation: from-image;
 }
