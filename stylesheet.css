@@ -1,14 +1,23 @@
 h1 {
     color: crimson;
     justify-content: center;
+    align-content: center;
 }
 
 img {
-    image-orientation: from-image;
     width: 500px;
     justify-content: center;
+    align-content: center;
 }
 
 a {
     color: black;
+}
+
+table {
+    border: 1px;
+}
+
+th,td {
+    padding: 10px;
 }
